@@ -8,5 +8,6 @@ print(welcome_text)
 
 
 # for loop
+print("This is range from 1 to 9")
 for i in range(1,10):
     print(i)
